@@ -1,3 +1,5 @@
+Short Horizon Price Prediction 
+---------
 This project explores whether short-term stock price movements can be predicted using machine learning models trained on historical market data.
 
 Using daily price data across multiple equities and cryptocurrencies, I engineered time-series features (returns, rolling statistics, momentum indicators) and trained both Logistic Regression and XGBoost classifiers to predict the direction of the next-day return.
